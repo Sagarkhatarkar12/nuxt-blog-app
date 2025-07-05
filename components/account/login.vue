@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-col items-center justify-center h-[50vh] w-full">
-        <form class="flex flex-col  justify-center h-full bg-gray-900 px-10 text-white w-80" action="" method="get">
+        <form class="flex flex-col  justify-center h-full bg-gray-900 px-10 text-white w-120" action="" method="get">
           
             <div class="flex flex-col items-start gap-1">
           <label>Email</label>
