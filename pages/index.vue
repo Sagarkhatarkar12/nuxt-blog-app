@@ -1,18 +1,23 @@
 <template>
+  <Nav />
+  <Banner />
+  <RecentBlog />
+  <!-- <Login /> -->
+  <!-- <AdminPanal /> -->
 
- <AdminPanal/>
-  
+
 </template>
 <script>
 import Nav from '~/components/Nav/nav.vue'
 import Banner from '~/components/Banner/banner.vue'
 import Login from "../components/account/login.vue"
-import AdminPanal from "../components/Admin/adminPanal.vue"
+import RecentBlog from '~/components/RecentBlog.vue'
+
 export default {
   components: {
     Nav,
-    Banner
-    ,Login
+    Banner,
+    Login
 
   },
 }
