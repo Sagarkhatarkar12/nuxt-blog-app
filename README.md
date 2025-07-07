@@ -3,6 +3,9 @@
 A simple full-stack blog application built with **Nuxt 3** that supports **CRUD operations** and **Server-Side Rendering (SSR)**. This project demonstrates how to build dynamic pages, use Nuxt’s API routes, and render content server-side for SEO and performance benefits.
 
 ---
+![not render ](public/Screenshot%202025-07-07%20154336.png "BLOG APP")
+![some error](public/Screenshot%202025-07-07%20154448.png "BLOG APP")
+
 
 ## 🔍 Features
 
