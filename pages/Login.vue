@@ -1,17 +1,19 @@
 <template>
     <Nav />
-  
-  <h1 class="text-3xl font-bold bg-red-500 flex text-white py-10  underline">
-    Hello world!
-  </h1>
+  <div>
+    <h1 class="text-3xl text-center mt-10 py-2">Login Page</h1>
 
+    <Login/>
+  </div>
 
 </template>
 <script>
 import Nav from '~/components/Nav/nav.vue'
+import Login from '~/components/account/login.vue'
 export default {
   components: {
     Nav
+    , Login
   }
 }
 </script>
