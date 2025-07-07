@@ -2,8 +2,8 @@
   <Nav />
   <Banner />
   <RecentBlog />
-  <!-- <Login /> -->
-  <!-- <AdminPanal /> -->
+  <Login />
+  <AdminPanal />
 
 
 </template>

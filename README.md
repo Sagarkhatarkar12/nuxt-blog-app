@@ -5,6 +5,9 @@ A simple full-stack blog application built with **Nuxt 3** that supports **CRUD 
 ---
 ![not render ](public/Screenshot%202025-07-07%20154336.png "BLOG APP")
 ![some error](public/Screenshot%202025-07-07%20154448.png "BLOG APP")
+![not render ](public/Screenshot%202025-07-07%20154336.png "BLOG APP")
+![some error](public/admin.png "BLOG APP")
+![some error](public/log.png"BLOG APP")
 
 
 ## 🔍 Features
