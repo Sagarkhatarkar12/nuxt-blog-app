@@ -10,6 +10,10 @@ A simple full-stack blog application built with **Nuxt 3** that supports **CRUD 
 ![some error](public/log.png "BLOG APP")
 
 
+
+![some error](public/account.png "BLOG APP")
+
+
 ## 🔍 Features
 
 - ✅ View all blog posts
