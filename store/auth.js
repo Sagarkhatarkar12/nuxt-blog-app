@@ -9,6 +9,15 @@ export const useLoginStore = defineStore("login", {
     isAuthenticated: false,
   }),
   actions: {
+    Logout(){
+      // console.log("logout");
+      this.accessToken = "";
+      this.isAuthenticated = false;
+      this.user = {};
+       return navigateTo('/')
+
+    }
+    ,
      Login(email, password) {
   // const data = null;
    

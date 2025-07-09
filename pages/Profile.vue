@@ -1,21 +1,21 @@
 <template>
-<div>
-    <Account/>
-</div>
+  <div>
+    <Account />
+  </div>
 </template>
 <script>
 import Account from "../components/account/Account.vue";
 export default {
-    
-    components: {
-        Account
-    },
-    setup() {
+
+  components: {
+    Account
+  },
+  setup() {
     definePageMeta({
       middleware: 'auth'
     });
   }
-    
-}   
+
+}
 
 </script>
